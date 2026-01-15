@@ -11,3 +11,5 @@ langchain-text-splitters
 pypdfium2
 langchain-openai
 chromadb
+sentence_transformers
+langchain_huggingface
